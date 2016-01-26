@@ -1,10 +1,8 @@
+# mac系统文件夹属性文件
+.DS_Store
+
 .gradle/
 .idea/
 build/
 gradle/
 *.iml
-
-# Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
-!gradle-wrapper.jar
-
-
